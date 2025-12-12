@@ -1,0 +1,4 @@
+Dataset,Accuracy,Precision,Recall,F1,AUC,SPD,DI,EOD,AOD,BiasAmp,Theil
+"LendingClub(SVM+Fairlearn,test)",0.7273333333333334,0.7273333333333334,1.0,0.8421458896179081,0.5,,,,,149.5,0.055896770120989404
+GermanCredit(SVM+Fairlearn),0.7,0.7,1.0,0.8235294117647058,,,,,,,
+GiveMeSomeCredit(SVM+Fairlearn),0.93316,0.93316,1.0,0.9654244863332575,,,,,,,
